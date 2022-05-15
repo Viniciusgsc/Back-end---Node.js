@@ -1,0 +1,3 @@
+
+-- PARA RODAR O PROJETO VA NA ULTIMA PASTA Projeto-v002, instale o nodemodules(comando - npm install)
+-- LOGO DPS APLIQUE O COMANDO npm start E O PROJETO IRA INICIAR.
