@@ -1,0 +1,2 @@
+-- PARA INICIAR O PROJETO VA A PASTA Projeto Rotas e instale o nodemodules - pelo terminal de o comando npm install
+-- LOGO EM SEGUIDA O COMANDO npm start E O PROJETO IRÁ INICIAR
